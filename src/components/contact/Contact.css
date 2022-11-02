@@ -1,0 +1,24 @@
+form{
+    /* border: 2px solid red; */
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    margin: auto;
+    width: 75%;
+    height: 20px;
+    background:none;
+    outline: none;
+    border-bottom: 1px solid var(--color-primary);
+    color: white;
+}
+button{
+    margin: auto;
+}

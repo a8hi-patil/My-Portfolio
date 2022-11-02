@@ -1,0 +1,8 @@
+.htmlcss-icon{
+    display: flex;
+    flex-direction: column;
+}
+.experience__details{
+    margin-bottom: 15px;
+    /* border: 2px solid red; */
+}
